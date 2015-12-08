@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Wyndell/Documents/AndroidFiles/push/40/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/Users/Wyndell/Documents/AndroidFiles/push/40/app/build/intermediates/pre-dexed/debug/classes-92a34ba71f4353354be9769bbb578afad9cb74ca.jar" />
+    </item>
+    <item
+        jar="/Users/Wyndell/Documents/AndroidFiles/push/40/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/Users/Wyndell/Documents/AndroidFiles/push/40/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0-f727ba05fec2df188116b5d3c051a220ab5fc3b0.jar" />
+    </item>
+    <item
+        jar="/Users/Wyndell/Documents/AndroidFiles/push/40/app/build/intermediates/exploded-aar/40.libraries/opencv/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="499bf27fd5d3ee191b59d6b608259aaacf16a5ff">
+        <dex dex="/Users/Wyndell/Documents/AndroidFiles/push/40/app/build/intermediates/pre-dexed/debug/classes-ce781805ac798ab8e43cedfefbb714a755d9e60d.jar" />
+    </item>
+    <item
+        jar="/Users/Wyndell/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/Users/Wyndell/Documents/AndroidFiles/push/40/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.0-c1840ffc938646839dfecd19af74d832cc892e43.jar" />
+    </item>
+    <item
+        jar="/Users/Wyndell/Documents/AndroidFiles/push/40/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="/Users/Wyndell/Documents/AndroidFiles/push/40/app/build/intermediates/pre-dexed/debug/classes-dbfb3728f434fce007f9bdbb9bdfc66db621de57.jar" />
+    </item>
+
+</items>
